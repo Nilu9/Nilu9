@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nilu9
-- 👀 I’m interested in Front end Web Development
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in Back end Development
+- 🌱 I’m currently learning java and Spring boot.
 
 - 📫 you can reach me through nnsahoo@outlook.com
 - 🏡 I'm from Bhubaneswar
